@@ -37,7 +37,7 @@ plt.imshow(s)
 plt.title('V plane')
 plt.imshow(v)
 ```
-## <br><br><br>Output
+## <br><br><br><br><br><br>Output
 
 
 ![s1](https://user-images.githubusercontent.com/75235789/175783140-8f870b4a-c2f4-420b-a4fc-47ba314dfb42.jpg)
