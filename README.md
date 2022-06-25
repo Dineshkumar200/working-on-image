@@ -7,7 +7,7 @@
 
 import cv2
 import matplotlib.pyplot as plt
-img=cv2.imread("tree.jpg",1)
+img=cv2.imread("Dineshkumar.jpg",1)
 img=cv2.resize(img,(400,300))
 plt.title('Flower(original image)')
 plt.imshow(img)
